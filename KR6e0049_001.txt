@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:48.987891
+#+DATE: 2015-09-28 22:56:50.413451
 #+TITLE: 大方廣佛華嚴經不思議佛境界分
 #+PROPERTY: CBETA_ID T10n0300
 #+PROPERTY: ID KR6e0049
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 300
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6e0049_T_000-0905a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0049_T_001-0905a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.300[No.301]¶
-
- 《大方廣佛華嚴經不思議佛境界¶
+No. 300 [No. 301]¶
+《大方廣佛華嚴經不思議佛境界¶
 分》一卷¶
 ¶
 唐于闐三藏提雲般若譯¶
