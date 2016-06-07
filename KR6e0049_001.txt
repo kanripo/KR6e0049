@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:48.987891
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:45
 #+TITLE: 大方廣佛華嚴經不思議佛境界分
 #+PROPERTY: CBETA_ID T10n0300
 #+PROPERTY: ID KR6e0049
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 300
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0049_T_000-0905a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0049_T_001-0905a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.300[No.301]¶
-
- 《大方廣佛華嚴經不思議佛境界¶
+No. 300 [No. 301]¶
+《大方廣佛華嚴經不思議佛境界¶
 分》一卷¶
 ¶
 唐于闐三藏提雲般若譯¶
@@ -379,9 +378,9 @@ No.300[No.301]¶
 　無量眾生滿三界，
 　其中放逸受諸苦，¶
 　惡見繫縛失正道，
-　念念度脫無空過。」
+　念念度脫無空過。」」
 #+END_VERSE
-」¶
+¶
 
 普賢菩薩說此法門時，千俱胝天人所有苦¶
 惱，皆得解脫，於阿耨多羅三藐三菩提，得不¶
